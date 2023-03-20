@@ -1,9 +1,7 @@
-<!doctype html>
 <html lang="en">
    <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Mystery Solving</title>
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
    </head>
    <body>
@@ -63,7 +61,7 @@
          <tbody>
             <tr>
                <td>Giant Jelly</td>
-               <td class="CC"><a href="http://www.neopets.com/jelly/jelly.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://www.neopets.com/jelly/jelly.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/3us4yd2h" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -80,13 +78,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=giantjelly"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=giantjelly"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>edd#4561</td>
             </tr>
             <tr>
                <td>Giant Omlette</td>
-               <td class="CC"><a href="http://www.neopets.com/prehistoric/omelette.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://www.neopets.com/prehistoric/omelette.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/3ub73vfd" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -103,13 +101,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=giantomelette"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=giantomelette"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>edd#4562</td>
             </tr>
             <tr>
                <td>Deserted Tomb</td>
-               <td class="CC"><a href="http://www.neopets.com/worlds/geraptiku/tomb.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://www.neopets.com/worlds/geraptiku/tomb.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/NeoDesertedForm2" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -126,13 +124,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=geraptomb"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=geraptomb"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>edd#4563</td>
             </tr>
             <tr>
                <td>Grumpy King</td>
-               <td class="CC"><a href="https://www.neopets.com/medieval/grumpyking.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/medieval/grumpyking.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/NeoKingsForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -149,13 +147,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=grumpy_old_king"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=grumpy_old_king"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>edd#4564</td>
             </tr>
             <tr>
                <td>Wise King</td>
-               <td class="CC"><a href="https://www.neopets.com/medieval/wiseking.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/medieval/wiseking.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/NeoKingsForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -172,13 +170,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=wise_old_king"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=wise_old_king"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>edd#4565</td>
             </tr>
             <tr>
                <td>Qasalan Expellibox</td>
-               <td class="CC"><a href="http://ncmall.neopets.com/mall/shop.phtml?page=giveaway"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://ncmall.neopets.com/mall/shop.phtml?page=giveaway"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/QExpForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -195,13 +193,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=qasalan_expellibox"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=qasalan_expellibox"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>edd#4566</td>
             </tr>
             <tr>
                <td>Snowager</td>
-               <td class="CC"><a href="http://www.neopets.com/winter/snowager.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://www.neopets.com/winter/snowager.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/NeoSnowForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -218,7 +216,7 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=snowager"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=snowager"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC">
                   <a href="https://discord.com/channels/123668853698854913/895292139683078224/999328126612017305" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-discord" viewBox="0 0 16 16">
@@ -230,7 +228,7 @@
             </tr>
             <tr>
                <td>Bagatelle</td>
-               <td class="CC"><a href="https://www.neopets.com/halloween/bagatelle.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/halloween/bagatelle.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://forms.gle/SsjaWpuUP1ZpUxBg8" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -247,13 +245,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=bagatelle"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=bagatelle"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>edd#4568</td>
             </tr>
             <tr>
                <td>Coconut Shy</td>
-               <td class="CC"><a href="https://www.neopets.com/halloween/coconutshy.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/halloween/coconutshy.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://forms.gle/dajcmrTPwd4a15Qj7" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -270,13 +268,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=coconut_shy"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=coconut_shy"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>edd#4569</td>
             </tr>
             <tr>
                <td>Pick Your Own</td>
-               <td class="CC"><a href="https://www.neopets.com/medieval/pickyourown_index.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/medieval/pickyourown_index.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://forms.gle/bF7nTRjFDVXeFC1C9" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -293,13 +291,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=pick_your_own"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=pick_your_own"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>Ryan100495#3120 / edd#4569</td>
             </tr>
             <tr>
                <td>Battledome</td>
-               <td class="CC"><a href="https://www.neopets.com/dome/"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/dome/"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">N/A</td>
                <td class="CC">
                   <a href="https://tinyurl.com/neoBDItemStats" class="text-decoration-none">
@@ -309,7 +307,7 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://battlepedia.jellyneo.net/?go=bd_inside"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://battlepedia.jellyneo.net/?go=bd_inside"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC">
                   <a href="https://discord.com/channels/123668853698854913/895292139683078224/1075478021898768445" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-discord" viewBox="0 0 16 16">
@@ -321,7 +319,7 @@
             </tr>
             <tr>
                <td>Faerie Quest Tracking</td>
-               <td class="CC"><a href="https://www.neopets.com/quests.phtml?"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/quests.phtml?"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/neoFQFCs" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -338,13 +336,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=faeriequests"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=faeriequests"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>edd#4569</td>
             </tr>
             <tr>
                <td>Cheeseroller</td>
-               <td class="CC"><a href="https://www.neopets.com/medieval/cheeseroller.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/medieval/cheeseroller.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/NeoCheeseForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -361,7 +359,7 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=cheeseroller"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=cheeseroller"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC">
                   <a href="https://discord.com/channels/123668853698854913/895292139683078224/1070422288660430888" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-discord" viewBox="0 0 16 16">
@@ -373,7 +371,7 @@
             </tr>
             <tr>
                <td>The Discarded Magical Blue Grundo Plushie of Prosperity</td>
-               <td class="CC"><a href="http://www.neopets.com/faerieland/tdmbgpop.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://www.neopets.com/faerieland/tdmbgpop.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/neoDMBGPoPForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -390,7 +388,7 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=tdmbgpop"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=tdmbgpop"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC">
                   <a href="https://discord.com/channels/123668853698854913/895292139683078224/1070708836610084926" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-discord" viewBox="0 0 16 16">
@@ -402,7 +400,7 @@
             </tr>
             <tr>
                <td>Monthly Freebies</td>
-               <td class="CC"><a href="https://www.neopets.com/freebies/"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/freebies/"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/neoFreebiesForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -425,7 +423,7 @@
             </tr>
             <tr>
                <td>The Faerie Caverns</td>
-               <td class="CC"><a href="http://www.neopets.com/faerieland/caverns/index.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://www.neopets.com/faerieland/caverns/index.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://discord.com/channels/123668853698854913/895292139683078224/1012709734433959966" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -442,7 +440,7 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=faeriecaverns"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=faeriecaverns"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC">
                   <a href="https://discord.com/channels/123668853698854913/895292139683078224/1012709734433959966" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-discord" viewBox="0 0 16 16">
@@ -454,7 +452,7 @@
             </tr>
             <tr>
                <td>Coltzan's Shrine</td>
-               <td class="CC"><a href="https://www.neopets.com/desert/shrine.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/desert/shrine.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/NeoShrineForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -471,7 +469,7 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=coltzansshrine"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=coltzansshrine"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC">
                   <a href="https://discord.com/channels/123668853698854913/895292139683078224/1002680878482337875" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-discord" viewBox="0 0 16 16">
@@ -483,7 +481,7 @@
             </tr>
             <tr>
                <td>Aboard the Coincidence</td>
-               <td class="CC"><a href="https://www.neopets.com/space/coincidence.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/space/coincidence.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/NeoCoinForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -500,7 +498,7 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=coincidence_quests"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=coincidence_quests"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC">
                   <a href="https://discord.com/channels/123668853698854913/895292139683078224/895292851330625547" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-discord" viewBox="0 0 16 16">
@@ -512,7 +510,7 @@
             </tr>
             <tr>
                <td>The Forgotten Shore</td>
-               <td class="CC"><a href="https://www.neopets.com/pirates/forgottenshore.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/pirates/forgottenshore.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/neoForgottenShoreForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -529,7 +527,7 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=forgottenshore"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=forgottenshore"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC">
                   <a href="https://discord.com/channels/123668853698854913/895292139683078224/932678993356931103" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-discord" viewBox="0 0 16 16">
@@ -541,7 +539,7 @@
             </tr>
             <tr>
                <td>Donny's Toy Repair</td>
-               <td class="CC"><a href="https://www.neopets.com/winter/brokentoys.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/winter/brokentoys.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/NeoDonForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -558,13 +556,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=toy_repair_shop"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=toy_repair_shop"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>edd#4569</td>
             </tr>
             <tr>
                <td>Nerkmid Tracking</td>
-               <td class="CC"><a href="https://www.neopets.com/vending.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/vending.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/NeoNerkForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -581,13 +579,13 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=alien_aisha_vending_machine"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=alien_aisha_vending_machine"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>umop u dn#8354 / edd#4569</td>
             </tr>
             <tr>
                <td>Tyrannian Concert Hal</td>
-               <td class="CC"><a href="http://www.neopets.com/prehistoric/concerthall.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://www.neopets.com/prehistoric/concerthall.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">N/A</td>
                <td class="CC">
                   <a href="https://tinyurl.com/98rrbkc" class="text-decoration-none">
@@ -597,7 +595,7 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=concerts"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=concerts"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td class="CC"></td>
                <td>Ryan100495#3120</td>
             </tr>
@@ -680,7 +678,7 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=scratchcards"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=scratchcards"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td>Ryan100495#3120</td>
             </tr>
          </tbody>
@@ -700,15 +698,15 @@
          <tbody>
             <tr>
                <td>Golden Dubloon Menu</td>
-               <td class="CC"><a href="http://www.neopets.com/~SparklesRoyal"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://www.neopets.com/~SparklesRoyal"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">N/A</td>
                <td class="CC">N/A</td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=goldendubloon"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=goldendubloon"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td>rowan#2222 / edd#4569</td>
             </tr>
             <tr>
                <td>Kelp Menu</td>
-               <td class="CC"><a href="http://www.neopets.com/~Riark"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://www.neopets.com/~Riark"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://tinyurl.com/NeoKelpForm" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -725,12 +723,12 @@
                      </svg>
                   </a>
                </td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=kelp"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=kelp"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
                <td>winner19955/ edd#4569</td>
             </tr>
          </tbody>
       </table>
-      <div>Jellyneo forms</div>
+      <div>Jellyneo Forms</div>
       <table class="styled-table">
          <thead>
             <tr>
@@ -744,7 +742,7 @@
          <tbody>
             <tr>
                <td>Test Your Strength</td>
-               <td class="CC"><a href="https://www.neopets.com/halloween/strtest/index.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="https://www.neopets.com/halloween/strtest/index.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://forms.gle/3QC1jGksb7kseQDu6" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -754,10 +752,10 @@
                   </a>
                </td>
                <td class="CC">Private</td>
-               <td class="CC"><a href="http://www.jellyneo.net/?go=test_your_strength"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="http://www.jellyneo.net/?go=test_your_strength"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
             <tr>
                <td>Kitchen Quest</td>
-               <td class="CC"><a href="http://www.neopets.com/island/kitchen.phtml"><img src=https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png alt="NpLogo"></a></td>
+               <td class="CC"><a href="http://www.neopets.com/island/kitchen.phtml"><img src="https://images.neopets.com/altador/altadorcup/2013/popups/rank/star.png" alt="NpLogo"></a></td>
                <td class="CC">
                   <a href="https://forms.gle/imbyXg1G5vMyzvHA9" class="text-decoration-none">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-input-cursor-text" viewBox="0 0 16 16">
@@ -767,7 +765,7 @@
                   </a>
                </td>
                <td class="CC">Private</td>
-               <td class="CC"><a href="https://www.jellyneo.net/?go=kitchen_quests"><img src=https://www.jellyneo.net/images/guide_icon.png alt="JN"></a></td>
+               <td class="CC"><a href="https://www.jellyneo.net/?go=kitchen_quests"><img src="https://www.jellyneo.net/images/guide_icon.png" alt="JN"></a></td>
          </tbody>
       </table>
       <div>We'd be nothing without our humble beginnings as a <b>Cooking Pot Recipe</b> solving powerhouse!</div>
