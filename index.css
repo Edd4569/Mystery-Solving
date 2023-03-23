@@ -3,9 +3,10 @@
   margin: 25px 0;
   font-size: 0.9em;
   font-family: sans-serif;
-  min-width: 400px;
+  min-width: 80%;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
   }
+
   .styled-table thead tr {
   background-color: #009879;
   color: #ffffff;
@@ -33,4 +34,7 @@
   }
   .div {
   padding: left 10px;
+  }
+  .center {
+    margin: auto;
   }
