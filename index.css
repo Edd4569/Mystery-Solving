@@ -1,5 +1,26 @@
+:root {
+  --background-color-light: #f3f3f3;
+  --color-light: black;
+  --background-color-dark: #1c1c1c;
+  --color-dark: white;
+  --star-color-light: black;
+  --star-color-dark: yellow;
+}
 
-.tableRow {
-  background-color: #f3f3f3;
-  color:black;
+[data-bs-theme="light"] .tableRow {
+  background-color: var(--background-color-light);
+  color: var(--color-light);
+}
+
+[data-bs-theme="dark"] .tableRow {
+  background-color: var(--background-color-dark);
+  color: var(--color-dark);
+}
+
+[data-bs-theme="light"] .star-icon {
+  color: var(--star-color-light);
+}
+
+[data-bs-theme="dark"] .star-icon {
+  color: var(--star-color-dark);
 }
